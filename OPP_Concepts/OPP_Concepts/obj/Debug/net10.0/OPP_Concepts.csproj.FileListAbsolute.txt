@@ -1,0 +1,14 @@
+E:\College\3rd year\2nd sem\Application of Dot Net\LAB_Practice\OPP_Concepts\OPP_Concepts\bin\Debug\net10.0\OPP_Concepts.exe
+E:\College\3rd year\2nd sem\Application of Dot Net\LAB_Practice\OPP_Concepts\OPP_Concepts\bin\Debug\net10.0\OPP_Concepts.deps.json
+E:\College\3rd year\2nd sem\Application of Dot Net\LAB_Practice\OPP_Concepts\OPP_Concepts\bin\Debug\net10.0\OPP_Concepts.runtimeconfig.json
+E:\College\3rd year\2nd sem\Application of Dot Net\LAB_Practice\OPP_Concepts\OPP_Concepts\bin\Debug\net10.0\OPP_Concepts.dll
+E:\College\3rd year\2nd sem\Application of Dot Net\LAB_Practice\OPP_Concepts\OPP_Concepts\bin\Debug\net10.0\OPP_Concepts.pdb
+E:\College\3rd year\2nd sem\Application of Dot Net\LAB_Practice\OPP_Concepts\OPP_Concepts\obj\Debug\net10.0\OPP_Concepts.GeneratedMSBuildEditorConfig.editorconfig
+E:\College\3rd year\2nd sem\Application of Dot Net\LAB_Practice\OPP_Concepts\OPP_Concepts\obj\Debug\net10.0\OPP_Concepts.AssemblyInfoInputs.cache
+E:\College\3rd year\2nd sem\Application of Dot Net\LAB_Practice\OPP_Concepts\OPP_Concepts\obj\Debug\net10.0\OPP_Concepts.AssemblyInfo.cs
+E:\College\3rd year\2nd sem\Application of Dot Net\LAB_Practice\OPP_Concepts\OPP_Concepts\obj\Debug\net10.0\OPP_Concepts.csproj.CoreCompileInputs.cache
+E:\College\3rd year\2nd sem\Application of Dot Net\LAB_Practice\OPP_Concepts\OPP_Concepts\obj\Debug\net10.0\OPP_Concepts.dll
+E:\College\3rd year\2nd sem\Application of Dot Net\LAB_Practice\OPP_Concepts\OPP_Concepts\obj\Debug\net10.0\refint\OPP_Concepts.dll
+E:\College\3rd year\2nd sem\Application of Dot Net\LAB_Practice\OPP_Concepts\OPP_Concepts\obj\Debug\net10.0\OPP_Concepts.pdb
+E:\College\3rd year\2nd sem\Application of Dot Net\LAB_Practice\OPP_Concepts\OPP_Concepts\obj\Debug\net10.0\OPP_Concepts.genruntimeconfig.cache
+E:\College\3rd year\2nd sem\Application of Dot Net\LAB_Practice\OPP_Concepts\OPP_Concepts\obj\Debug\net10.0\ref\OPP_Concepts.dll

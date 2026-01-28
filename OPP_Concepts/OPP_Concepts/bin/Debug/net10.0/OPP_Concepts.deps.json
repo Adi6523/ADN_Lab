@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "OPP_Concepts/1.0.0": {
+        "runtime": {
+          "OPP_Concepts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OPP_Concepts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
