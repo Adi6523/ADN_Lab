@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "7EI+37zWHEU=",
+  "success": true,
+  "projectFilePath": "D:\\.NET\\Exp05\\Exp05_B_Async\\Exp05_B_Async.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aditya\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.25\\microsoft.windowsdesktop.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\Aditya\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.25\\microsoft.netcore.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\Aditya\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.25\\microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\Aditya\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.25\\microsoft.netcore.app.host.win-x64.8.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

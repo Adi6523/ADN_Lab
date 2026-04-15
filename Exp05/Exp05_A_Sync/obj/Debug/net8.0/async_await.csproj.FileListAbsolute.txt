@@ -1,0 +1,14 @@
+D:\.NET\Exp05\async_await\bin\Debug\net8.0\async_await.exe
+D:\.NET\Exp05\async_await\bin\Debug\net8.0\async_await.deps.json
+D:\.NET\Exp05\async_await\bin\Debug\net8.0\async_await.runtimeconfig.json
+D:\.NET\Exp05\async_await\bin\Debug\net8.0\async_await.dll
+D:\.NET\Exp05\async_await\bin\Debug\net8.0\async_await.pdb
+D:\.NET\Exp05\async_await\obj\Debug\net8.0\async_await.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Exp05\async_await\obj\Debug\net8.0\async_await.AssemblyInfoInputs.cache
+D:\.NET\Exp05\async_await\obj\Debug\net8.0\async_await.AssemblyInfo.cs
+D:\.NET\Exp05\async_await\obj\Debug\net8.0\async_await.csproj.CoreCompileInputs.cache
+D:\.NET\Exp05\async_await\obj\Debug\net8.0\async_await.dll
+D:\.NET\Exp05\async_await\obj\Debug\net8.0\refint\async_await.dll
+D:\.NET\Exp05\async_await\obj\Debug\net8.0\async_await.pdb
+D:\.NET\Exp05\async_await\obj\Debug\net8.0\async_await.genruntimeconfig.cache
+D:\.NET\Exp05\async_await\obj\Debug\net8.0\ref\async_await.dll

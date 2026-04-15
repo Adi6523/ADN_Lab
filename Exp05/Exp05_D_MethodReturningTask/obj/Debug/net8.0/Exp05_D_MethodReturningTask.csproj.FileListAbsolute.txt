@@ -1,0 +1,14 @@
+D:\.NET\Exp05\Exp05_D_MethodReturningTask\bin\Debug\net8.0\Exp05_D_MethodReturningTask.exe
+D:\.NET\Exp05\Exp05_D_MethodReturningTask\bin\Debug\net8.0\Exp05_D_MethodReturningTask.deps.json
+D:\.NET\Exp05\Exp05_D_MethodReturningTask\bin\Debug\net8.0\Exp05_D_MethodReturningTask.runtimeconfig.json
+D:\.NET\Exp05\Exp05_D_MethodReturningTask\bin\Debug\net8.0\Exp05_D_MethodReturningTask.dll
+D:\.NET\Exp05\Exp05_D_MethodReturningTask\bin\Debug\net8.0\Exp05_D_MethodReturningTask.pdb
+D:\.NET\Exp05\Exp05_D_MethodReturningTask\obj\Debug\net8.0\Exp05_D_MethodReturningTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Exp05\Exp05_D_MethodReturningTask\obj\Debug\net8.0\Exp05_D_MethodReturningTask.AssemblyInfoInputs.cache
+D:\.NET\Exp05\Exp05_D_MethodReturningTask\obj\Debug\net8.0\Exp05_D_MethodReturningTask.AssemblyInfo.cs
+D:\.NET\Exp05\Exp05_D_MethodReturningTask\obj\Debug\net8.0\Exp05_D_MethodReturningTask.csproj.CoreCompileInputs.cache
+D:\.NET\Exp05\Exp05_D_MethodReturningTask\obj\Debug\net8.0\Exp05_D_MethodReturningTask.dll
+D:\.NET\Exp05\Exp05_D_MethodReturningTask\obj\Debug\net8.0\refint\Exp05_D_MethodReturningTask.dll
+D:\.NET\Exp05\Exp05_D_MethodReturningTask\obj\Debug\net8.0\Exp05_D_MethodReturningTask.pdb
+D:\.NET\Exp05\Exp05_D_MethodReturningTask\obj\Debug\net8.0\Exp05_D_MethodReturningTask.genruntimeconfig.cache
+D:\.NET\Exp05\Exp05_D_MethodReturningTask\obj\Debug\net8.0\ref\Exp05_D_MethodReturningTask.dll
