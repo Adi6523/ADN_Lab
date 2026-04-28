@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Exp05_C_Replace/1.0.0": {
+        "runtime": {
+          "Exp05_C_Replace.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exp05_C_Replace/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

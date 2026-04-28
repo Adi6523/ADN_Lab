@@ -1,0 +1,14 @@
+D:\.NET\Exp05\Exp05_B_Async\bin\Debug\net8.0\Exp05_B_Async.exe
+D:\.NET\Exp05\Exp05_B_Async\bin\Debug\net8.0\Exp05_B_Async.deps.json
+D:\.NET\Exp05\Exp05_B_Async\bin\Debug\net8.0\Exp05_B_Async.runtimeconfig.json
+D:\.NET\Exp05\Exp05_B_Async\bin\Debug\net8.0\Exp05_B_Async.dll
+D:\.NET\Exp05\Exp05_B_Async\bin\Debug\net8.0\Exp05_B_Async.pdb
+D:\.NET\Exp05\Exp05_B_Async\obj\Debug\net8.0\Exp05_B_Async.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Exp05\Exp05_B_Async\obj\Debug\net8.0\Exp05_B_Async.AssemblyInfoInputs.cache
+D:\.NET\Exp05\Exp05_B_Async\obj\Debug\net8.0\Exp05_B_Async.AssemblyInfo.cs
+D:\.NET\Exp05\Exp05_B_Async\obj\Debug\net8.0\Exp05_B_Async.csproj.CoreCompileInputs.cache
+D:\.NET\Exp05\Exp05_B_Async\obj\Debug\net8.0\Exp05_B_Async.dll
+D:\.NET\Exp05\Exp05_B_Async\obj\Debug\net8.0\refint\Exp05_B_Async.dll
+D:\.NET\Exp05\Exp05_B_Async\obj\Debug\net8.0\Exp05_B_Async.pdb
+D:\.NET\Exp05\Exp05_B_Async\obj\Debug\net8.0\Exp05_B_Async.genruntimeconfig.cache
+D:\.NET\Exp05\Exp05_B_Async\obj\Debug\net8.0\ref\Exp05_B_Async.dll
